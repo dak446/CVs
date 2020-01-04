@@ -1,17 +1,7 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: _main.aux
 The style file: ieeetr.bst
 Database file #1: scholarship.bib
-You're missing a field name---line 321 of file scholarship.bib
- : 
- : % author={{Keck Foundation}},
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-You're missing a field name---line 327 of file scholarship.bib
- : 
- : % author={{National Science Foundation}},
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
 Warning--empty title in conf_pres:pesgm18
 Warning--empty title in conf_pres:pesgm17
 Warning--empty title in conf_pres:pesgm15
-(There were 2 error messages)
+(There were 3 warnings)
